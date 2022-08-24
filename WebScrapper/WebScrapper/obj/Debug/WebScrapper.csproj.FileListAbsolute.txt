@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\obj\Debug\WebScrapper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\obj\Debug\WebScrapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\obj\Debug\WebScrapper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\bin\Debug\WebScrapper.exe.config
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\bin\Debug\WebScrapper.exe
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\bin\Debug\WebScrapper.pdb
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\obj\Debug\WebScrapper.exe
+C:\Users\User\Desktop\Kodowanie\037_WebScraper\WebScrapper\WebScrapper\obj\Debug\WebScrapper.pdb
